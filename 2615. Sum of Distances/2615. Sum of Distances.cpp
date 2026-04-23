@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         vector<long long> res(n);
         unordered_map<long long,vector<int>> mp;
-
         for(int i=0;i<n;i++){
             mp[nums[i]].push_back(i);
         }
