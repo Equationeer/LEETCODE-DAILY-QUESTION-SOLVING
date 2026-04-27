@@ -1,6 +1,6 @@
 # Check if There is a Valid Path in a Grid
 
-## 🧩 Problem Statement
+## Problem Statement
 
 You are given an `m x n` grid where each cell represents a **street type (1–6)**.
 
