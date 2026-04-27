@@ -1,4 +1,4 @@
-# 🚀 2452. Words Within Two Edits of Dictionary
+# 2452. Words Within Two Edits of Dictionary
 
 ## 🟡 Difficulty
 Medium
