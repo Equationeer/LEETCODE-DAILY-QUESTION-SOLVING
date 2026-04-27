@@ -1,4 +1,4 @@
-# 🛣️ Check if There is a Valid Path in a Grid
+# Check if There is a Valid Path in a Grid
 
 ## 🧩 Problem Statement
 
