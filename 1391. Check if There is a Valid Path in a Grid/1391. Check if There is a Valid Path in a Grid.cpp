@@ -3,7 +3,7 @@ public:
     bool hasValidPath(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size();
         vector<vector<pair<int,int>>> dir(7);
-
+        
         dir[1] = {{0,-1},{0,1}}; 
         dir[2] = {{-1,0},{1,0}};   
         dir[3] = {{0,-1},{1,0}};
