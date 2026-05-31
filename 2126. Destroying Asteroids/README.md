@@ -260,13 +260,4 @@ public:
 
 ---
 
-## Similar Problems
 
-- 455. Assign Cookies
-- 881. Boats to Save People
-- 948. Bag of Tokens
-- 1833. Maximum Ice Cream Bars
-
-These problems also rely on sorting and greedy decision making.
-
----
